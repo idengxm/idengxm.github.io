@@ -1,0 +1,7 @@
+.head_c div{float:left;width:373px;margin:0 0 0 460px;padding:40px 0 0 0;height:49px;}
+.content{margin:0 auto 0 auto;width:987px;height:auto;}
+.ban{margin:-113px 0 0 10px;}
+.right_c{float:right;margin:-115px 0 0 0;width:550px;padding:0;}
+@media all and (min-width:0px){/* opera styles */
+.head_c img{float:right;margin:2px 2px 0 0;}
+.l_c1 li img{float:right;margin:0 13px 0 0;}
